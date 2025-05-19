@@ -108,6 +108,6 @@ This project is open for educational and research purposes. Feel free to fork an
 
 ## 🙋 Author
 
-**[Your Name]**  
+**Tayyab**  
 [GitHub Profile](https://github.com/mtayyabqureshi)  
-Reach out if you're curious about YouTube sentiment, data scraping, or political data projects!
+Reach out if you're curious about YouTube sentiment or  data scraping!
